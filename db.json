@@ -1,0 +1,84 @@
+{
+  "productos":[
+    {
+  "_id": {
+    "$oid": "645b403d0aaebfa7b75dffc2"
+  },
+  "unidades": 12,
+  "descripcion": "Una camara de video para seguridad del hogar",
+  "nombreProducto": "camara",
+  "tipo": "producto"
+},
+{
+  "_id": {
+    "$oid": "645b40790aaebfa7b75dffc3"
+  },
+  "unidades": 10,
+  "descripcion": "Una alarma",
+  "nombreProducto": "alarma",
+  "tipo": "producto"
+},
+{
+  "_id": {
+    "$oid": "645b40990aaebfa7b75dffc4"
+  },
+  "unidades": 3,
+  "descripcion": "Una alarma de incendios",
+  "nombreProducto": "alarma de incendio",
+  "tipo": "producto"
+},
+{
+  "_id": {
+    "$oid": "645b40ed0aaebfa7b75dffc5"
+  },
+  "unidades": 8,
+  "descripcion": "plancha de madera",
+  "nombreProducto": "plancha de madera 3x6",
+  "tipo": "material"
+},
+{
+  "_id": {
+    "$oid": "645b41430aaebfa7b75dffc6"
+  },
+  "unidades": 10,
+  "descripcion": "plancha de madera",
+  "nombreProducto": "plancha de madera 2x4",
+  "tipo": "material"
+},
+{
+  "_id": {
+    "$oid": "645b415c0aaebfa7b75dffc7"
+  },
+  "unidades": 15,
+  "descripcion": "plancha de metal",
+  "nombreProducto": "plancha de metal 3x6",
+  "tipo": "material"
+},
+{
+  "_id": {
+    "$oid": "645b41710aaebfa7b75dffc8"
+  },
+  "unidades": 12,
+  "descripcion": "Una camara de video para seguridad del hogar",
+  "nombreProducto": "plancha de metal 2x4",
+  "tipo": "material"
+},
+{
+  "_id": {
+    "$oid": "645d7e28d36d2728bb873d67"
+  },
+  "nombreProducto": "Motor",
+  "unidades": 12,
+  "descripcion": "Motor para puerta",
+  "tipo": "material"
+},
+{
+  "_id": {
+    "$oid": "646d1cd6f27e200c14c5fd7d"
+  },
+  "nombreProducto": "Resortes",
+  "unidades": 31,
+  "descripcion": "Resortes puerta",
+  "tipo": "material"
+}]
+}
